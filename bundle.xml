@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adapt_framework>
+    <bundle>
+        <name>angularjs</name>
+        <label>AngularJS</label>
+        <version>1.5.8</version>
+        <description />
+        <copyright>2010 - 2016 Google</copyright>
+        <license>MIT</license>
+        <type>UI</type>
+        <namespace>\angularjs</namespace>
+    </bundle>
+</adapt_framework>
