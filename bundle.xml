@@ -6,6 +6,8 @@
         <version>1.5.8</version>
         <description />
         <copyright>2010 - 2016 Google</copyright>
+        <version_status>release</version_status>
+        <availability>public</availability>
         <license>MIT</license>
         <type>UI</type>
         <namespace>\angularjs</namespace>
