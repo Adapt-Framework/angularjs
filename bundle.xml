@@ -3,7 +3,7 @@
     <bundle>
         <name>angularjs</name>
         <label>AngularJS</label>
-        <version>1.5.8</version>
+        <version>1.0.0</version>
         <description />
         <copyright>2010 - 2016 Google</copyright>
         <version_status>release</version_status>
@@ -11,5 +11,11 @@
         <license>MIT</license>
         <type>UI</type>
         <namespace>\angularjs</namespace>
+        <depends_on>
+            <bundle>
+                <name>adapt</name>
+                <version>2.0</version>
+            </bundle>
+        </depends_on>
     </bundle>
 </adapt_framework>
